@@ -24,6 +24,5 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hofdavid&count_private=true&theme=dark&show_icons=true) -->
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hofdavid&theme=dark&hide_border=true&locale=de)
-
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hofdavid&theme=holi-theme&hide_border=true)
 </div>
